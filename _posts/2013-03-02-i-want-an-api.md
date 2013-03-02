@@ -4,7 +4,7 @@ title: I Want An API
 ---
 {% include JB/setup %}
 
-<p><i><span class="small">by</span> <a href="https://plus.google.com/106460238807821851374" rel="author">Kin Lane</a></p>
+<p><i>by <a href="http://kinlane.com" rel="author">Kin Lane</a></i></p>
 <p><a title="I Want An API" href="http://iwantanapi.apievangelist.com/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/tag-cloud-i-want-api.png" alt="" width="325" align="right" /></a></p>
 <p>I feel we have done a good job explaining what is an API, why people need APIs, and providing services to manage APIs, but we are falling short on delivering information, tools and services for deploying APIs.</p>
 <p>First I want to acknowledge that many companies have established IT resources, in the form of technology talent, and internal systems they can put to use when deploying APIs.  This post isn&rsquo;t for you.  This is about individual problem owners looking to deploy APIs, who most likely have little or no access to traditional IT resources for a variety of reasons.</p>
